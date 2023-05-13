@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="746f7496-a1cb-4fd4-826c-89378447bdd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/config/routes/app_pages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/config/routes/app_pages.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/config/routes/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/config/routes/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/utils/constants/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/utils/constants/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/home/presentation/screens/mobile_view/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/home/presentation/screens/mobile_view/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/certificate_of_deposit/presentation/controller/certificate_of_deposit_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/certificate_of_deposit/presentation/controller/certificate_of_deposit_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/certificate_of_deposit/presentation/screens/mobile_view/certificate_of_deposit_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/certificate_of_deposit/presentation/screens/mobile_view/certificate_of_deposit_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/future_value/presentation/controller/future_value_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/future_value/presentation/controller/future_value_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/present_value/presentation/controller/present_value_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/present_value/presentation/controller/present_value_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/return_on_investment/presentation/controller/return_on_investment_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/return_on_investment/presentation/controller/return_on_investment_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/shared/components/dropdownmenu_compound.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/shared/components/dropdownmenu_compound.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/investment/shared/components/dropdownmenu_paymnet_frequency.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/investment/shared/components/dropdownmenu_paymnet_frequency.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/loan_calculator/presentation/controller/loan_calc_main_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/loan_calculator/presentation/controller/loan_calc_main_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/pro_loan_calculator/presentation/controller/pro_loan_calc_main_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/pro_loan_calculator/presentation/controller/pro_loan_calc_main_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/pro_loan_calculator/presentation/screens/web_view/pro_loan_calc_main_screen_web.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/modules/loan_calculators/pro_loan_calculator/presentation/screens/web_view/pro_loan_calc_main_screen_web.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JhzzLU6bXkR6WiTLSEGVNRwqgn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="746f7496-a1cb-4fd4-826c-89378447bdd1" name="Default Changelist" comment="" />
+      <created>1672545363192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672545363192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
